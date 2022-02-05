@@ -1,4 +1,9 @@
 {
-  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
-  "recommendations": ["angular.ng-template"]
+    "recommendations": [
+        "angular.ng-template",
+        "tchoupinax.tilt",
+        "ms-azuretools.vscode-docker",
+        "sibiraj-s.vscode-scss-formatter",
+        "jebbs.markdown-extended"
+    ]
 }
